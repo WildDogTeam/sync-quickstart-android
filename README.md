@@ -18,7 +18,7 @@ Update [WilddogSyncDemoApplication](/app/src/main/java/com/wilddog/wilddogsyncde
 
 ## 更多示例
 
-这里分类汇总了 WildDog平台上的示例程序和开源应用，　链接地址：[https://github.com/WildDogTeam/wilddog-demos](https://github.com/WildDogTeam/wilddog-demos)
+这里分类汇总了 WildDog 平台上的示例程序和开源应用，　链接地址：[https://github.com/WildDogTeam/wilddog-demos](https://github.com/WildDogTeam/wilddog-demos)
 　　
 ## 支持
 
