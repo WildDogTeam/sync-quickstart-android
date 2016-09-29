@@ -1,10 +1,10 @@
-# sync-quickstart-Android
+# Wilddog Sync 快速入门 Demo
 
-这个 APP 展示了如何使用 WilddogSync SDK 来创建一个共享的评论墙 Demo，多个用户或者多端用户（iOS、android、web 等）都可以运行该应用程序，同时使用一个丰富的评论墙。 如果你有情怀自己优化应用，创建自己的 Wilddog App，并把这些技术引入到自己的应用程序！
-
+此 Demo 实现了一个常见的评论墙的功能。效果如下：
+ <img src="/images/saveapp.png" alt="yourApp" width="400">
 
 ## 本地运行
-首先确认本机已经安装 [Android](http://developer.android.com/index.html)运行环境和 Andriod Studio 开发环境。
+首先确认本机已经安装 [Android](http://developer.android.com/index.html) 运行环境和 Andriod Studio 开发环境。
 
 ## 克隆代码
 
@@ -21,7 +21,7 @@ Update [WilddogSyncDemoApplication](/app/src/main/java/com/wilddog/wilddogsyncde
 　　
 ## 支持
 
-如果在使用过程中有任何问题，请提 [issue](https://github.com/WildDogTeam/demo-android-chat/issues) ，我会在 Github 上给予帮助。
+如果在使用过程中有任何问题，请提 [issue](https://github.com/WildDogTeam/sync-quickstart-android/issues) ，野狗会在 Github 上给予帮助。
 
 ## 相关文档
 
