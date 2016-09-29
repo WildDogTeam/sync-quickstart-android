@@ -1,6 +1,7 @@
 # Wilddog Sync 快速入门 Demo
 
 此 Demo 实现了一个常见的评论墙的功能。效果如下：
+
  <img src="/images/saveapp.png" alt="yourApp" width="400">
 
 ## 本地运行
