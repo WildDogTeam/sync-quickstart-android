@@ -1,5 +1,5 @@
 # sync-quickstart-Android
-----
+
 这个 APP 展示了如何使用 WilddogSync SDK 来创建一个共享的评论墙 Demo，多个用户或者多端用户（iOS、android、web 等）都可以运行该应用程序，同时使用一个丰富的评论墙。 如果你有情怀自己优化应用，创建自己的 Wilddog App，并把这些技术引入到自己的应用程序！
 
 
