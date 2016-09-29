@@ -13,7 +13,7 @@
 
 ##替换 Wilddog appId:
 
-Update [ChatApplication](/app/src/main/java/com/wilddog/wilddogsyncdemo/WilddogSyncDemoApplication.java) and replace https://testjar.wilddogio.com with a reference to your Wilddog.
+Update [WilddogSyncDemoApplication](/app/src/main/java/com/wilddog/wilddogsyncdemo/WilddogSyncDemoApplication.java) and replace https://testjar.wilddogio.com with a reference to your Wilddog.
 
 ## 更多示例
 
