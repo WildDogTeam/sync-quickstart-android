@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WilddogSyncDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="splash_description">Wilddog Sync 快速入门 Demo</string>
+    <string name="splash_button_text">体验Demo</string>
+    <string name="main_second_title_text">评论墙 Demo</string>
+    <string name="main_observer_text">评论者</string>
+    <string name="main_comment_content_text">评论内容...</string>
+    <string name="main_button_comment_text">添加评论</string>
+</resources>
